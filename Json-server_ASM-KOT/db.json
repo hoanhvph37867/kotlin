@@ -1,0 +1,172 @@
+{
+  "Category": [
+    {
+      "id": "1",
+      "cateName": "Popular",
+      "cateImg": "https://i.imgur.com/SDjnTlP.png"
+    },
+    {
+      "id": "2",
+      "cateName": "Chair",
+      "cateImg": "https://i.imgur.com/BhtEDPJ.png"
+    },
+    {
+      "id": "3",
+      "cateName": "Table",
+      "cateImg": "https://i.imgur.com/Fy72eFJ.png"
+    },
+    {
+      "id": "4",
+      "cateName": "Armchair",
+      "cateImg": "https://i.imgur.com/KoitpUu.png"
+    },
+    {
+      "id": "5",
+      "cateName": "Bed",
+      "cateImg": "https://i.imgur.com/KoitpUu.png"
+    },
+    {
+      "id": "6",
+      "cateName": "Lamp",
+      "cateImg": "https://i.imgur.com/9P422di.png"
+    }
+  ],
+  "Product": [
+    {
+      "description": "Minimal Stand is made of by natural wood. The design that is very simple and minimal. This is truly one of the best furnitures in any family for now. With 3 different colors, you can easily select the best match for your home.",
+      "prId": "pd1",
+      "prName": "Black Simple Lamp",
+      "prPrice": "12.00",
+      "quantity": 1,
+      "rate": "4.5",
+      "prImg": "https://i.imgur.com/wXiOXU6.png",
+      "id": "2eb3"
+    },
+    {
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Turpis pretium et in arcu adipiscing nec. Turpis pretium et in arcu adipiscing nec.",
+      "prId": "pd2",
+      "prName": "Minimal Stand",
+      "prPrice": "25.00",
+      "quantity": 1,
+      "rate": "4.0",
+      "prImg": "https://i.imgur.com/4Cy0453.png",
+      "id": "b91c"
+    },
+    {
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Turpis pretium et in arcu adipiscing nec. Turpis pretium et in arcu adipiscing nec.",
+      "prId": "pd3",
+      "prName": "Coffee Table",
+      "prPrice": "50.00",
+      "quantity": 1,
+      "rate": "4.5",
+      "prImg": "https://i.imgur.com/558i0gv.png",
+      "id": "3f66"
+    },
+    {
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Turpis pretium et in arcu adipiscing nec. Turpis pretium et in arcu adipiscing nec.",
+      "prId": "pd4",
+      "prName": "Coffee Chair",
+      "prPrice": "20.00",
+      "quantity": 1,
+      "rate": "4.8",
+      "prImg": "https://i.imgur.com/fw2TM7S.png",
+      "id": "1726"
+    },
+    {
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Turpis pretium et in arcu adipiscing nec. Turpis pretium et in arcu adipiscing nec.",
+      "prId": "pd5",
+      "prName": "Minimal Desk",
+      "prPrice": "12.00",
+      "quantity": 1,
+      "rate": "4.5",
+      "prImg": "https://www.officeworkdesign.com/wp-content/uploads/2021/10/Need-A-Minimalist-Desk.jpg",
+      "id": "bdfd"
+    },
+    {
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Turpis pretium et in arcu adipiscing nec. Turpis pretium et in arcu adipiscing nec.",
+      "prId": "pd6",
+      "prName": "Minimal Lamp",
+      "prPrice": "12.00",
+      "quantity": 1,
+      "rate": "4.5",
+      "prImg": "https://images.food52.com/vwmdaEKp7SJq4jkmiRAE1J9uVgw=/500x500/ace84ecd-819b-4e0f-b6f7-032a087e82f2--2020-0921_blomus_minimalist-rechargable-touch-lamp_charcoal_silo_ty-mecham.jpg",
+      "id": "58c9"
+    }
+  ],
+  "Cart": [
+    {
+      "id": "0fe6",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Turpis pretium et in arcu adipiscing nec. Turpis pretium et in arcu adipiscing nec.",
+      "prId": "pd4",
+      "prImg": "https://noithatthienkhang.com/wp-content/uploads/2022/09/Ban-Cafe-Ngoai-Troi-Mat-Da-BMD1237.jpg",
+      "prName": "Coffee Table",
+      "prPrice": "20.00",
+      "quantity": 1,
+      "rate": "4.8"
+    },
+    {
+      "id": "7ac5",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Turpis pretium et in arcu adipiscing nec. Turpis pretium et in arcu adipiscing nec.",
+      "prId": "pd6",
+      "prImg": "https://bongdenphilips.net/upload/images/bo-den-phong-chong-chay-no-htexd120-su-dung-bong-den-led-1m2-philips-20w.JPG",
+      "prName": "Minimal Lamp",
+      "prPrice": "12.00",
+      "quantity": 1,
+      "rate": "4.5"
+    }
+  ],
+  "User": [
+    {
+      "id": "admin123",
+      "email": "a@gmail.com",
+      "name": "Admin",
+      "password": "1",
+      "repass": "1"
+    }
+  ],
+
+
+  "History": [
+    {
+      "id": "0fe6",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Turpis pretium et in arcu adipiscing nec. Turpis pretium et in arcu adipiscing nec.",
+      "prId": "pd4",
+      "prImg": "https://www.neohoreca.com/wp-content/uploads/2020/07/Modern-Cafe-and-Coffee-Shop-Chair-NEO-300304E.jpg",
+      "prName": "Coffee Chair",
+      "prPrice": "20.00",
+      "quantity": 1,
+      "rate": "4.8"
+    },
+    {
+      "id": "800a",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Turpis pretium et in arcu adipiscing nec. Turpis pretium et in arcu adipiscing nec.",
+      "prId": "pd4",
+      "prImg": "https://www.neohoreca.com/wp-content/uploads/2020/07/Modern-Cafe-and-Coffee-Shop-Chair-NEO-300304E.jpg",
+      "prName": "Coffee Chair",
+      "prPrice": "20.00",
+      "quantity": 3,
+      "rate": "4.8"
+    },
+    {
+      "id": "0fe6",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Turpis pretium et in arcu adipiscing nec. Turpis pretium et in arcu adipiscing nec.",
+      "prId": "pd4",
+      "prImg": "https://www.neohoreca.com/wp-content/uploads/2020/07/Modern-Cafe-and-Coffee-Shop-Chair-NEO-300304E.jpg",
+      "prName": "Coffee Chair",
+      "prPrice": "20.00",
+      "quantity": 1,
+      "rate": "4.8"
+    },
+    {
+      "id": "7ac5",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Turpis pretium et in arcu adipiscing nec. Turpis pretium et in arcu adipiscing nec.",
+      "prId": "pd6",
+      "prImg": "https://images.food52.com/vwmdaEKp7SJq4jkmiRAE1J9uVgw=/500x500/ace84ecd-819b-4e0f-b6f7-032a087e82f2--2020-0921_blomus_minimalist-rechargable-touch-lamp_charcoal_silo_ty-mecham.jpg",
+      "prName": "Minimal Lamp",
+      "prPrice": "12.00",
+      "quantity": 1,
+      "rate": "4.5"
+    }
+  ],
+  "Favorite": []
+}
