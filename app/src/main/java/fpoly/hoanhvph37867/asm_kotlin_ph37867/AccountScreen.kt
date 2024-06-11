@@ -94,13 +94,13 @@ fun AccountScreenControl(innerPaddingValues: PaddingValues , navController: NavC
 //            composable("selectShipment") { AddressScreen(navController) }
 //            composable("myReview") { MyReViewTopBar(navController) }
 //            composable("rating") { ReView(navController) }
-                        MethodAccount(title = "My orders", message = "Already have 10 orders" , click = {navController.navigate("order")})
+                        MethodAccount(title = "My orders", message = "Already have 2 orders" , click = {navController.navigate("order")})
                         Spacer(modifier = Modifier.height(10.dp))
-                        MethodAccount(title = "Shipping Addresses", message = "03 Addresses", click = {navController.navigate("selectShipment")})
+                        MethodAccount(title = "Shipping Addresses", message = "01 Addresses", click = {navController.navigate("selectShipment")})
                         Spacer(modifier = Modifier.height(10.dp))
                         MethodAccount(title = "Payment Method", message = "You have 2 cards", click = {navController.navigate("paymentMethod")})
                         Spacer(modifier = Modifier.height(10.dp))
-                        MethodAccount(title = "My reviews", message = "Reviews for 5 items", click = {navController.navigate("myReview")})
+                        MethodAccount(title = "My reviews", message = "Reviews for 1 items", click = {navController.navigate("myReview")})
                         Spacer(modifier = Modifier.height(10.dp))
                         MethodAccount(title = "Setting", message = "Notification, Password, FAQ, Contact", click = {navController.navigate("setting")})
                         Spacer(modifier = Modifier.height(10.dp))

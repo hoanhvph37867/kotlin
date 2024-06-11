@@ -44,7 +44,6 @@ import androidx.core.graphics.toColorInt
 import androidx.navigation.NavController
 
 @Composable
-@Preview
 fun PaymentScreen(innerPadding: PaddingValues, navHostController : NavController) {
     Column(
         modifier = Modifier
@@ -85,7 +84,7 @@ fun PaymentScreen(innerPadding: PaddingValues, navHostController : NavController
                     verticalArrangement = Arrangement.SpaceEvenly
                 ) {
                     Text(
-                        text = "Bruno Fernandes",
+                        text = "Hoang Van Hoan",
                         modifier = Modifier.padding(start = 15.dp),
                         fontSize = 20.sp,
                         fontWeight = FontWeight(700),
@@ -100,7 +99,7 @@ fun PaymentScreen(innerPadding: PaddingValues, navHostController : NavController
 
                     Column(modifier = Modifier.padding(start = 15.dp)) {
                         Text(
-                            text = "25 rue Robert Latouche, Nice, 06200, Côte",
+                            text = "Số 1, Ngõ 2, Đường 3, Quận 4, Thành Phố 5",
                             fontSize = 14.sp,
                             fontFamily = FontFamily(
                                 Font(R.font.nunitosans_7pt_condensed_bold)
@@ -108,7 +107,7 @@ fun PaymentScreen(innerPadding: PaddingValues, navHostController : NavController
                             fontWeight = FontWeight(500)
                         )
                         Text(
-                            text = "D’azur, France", fontSize = 14.sp, fontFamily = FontFamily(
+                            text = "Nhanh là được", fontSize = 14.sp, fontFamily = FontFamily(
                                 Font(R.font.nunitosans_7pt_condensed_bold)
                             )
                         )

@@ -41,7 +41,6 @@ class PaymentMethod : ComponentActivity() {
 }
     @OptIn(ExperimentalMaterial3Api::class)
     @Composable
-    @Preview
     fun SelectPaymentScreen (navController: NavController) {
         Scaffold(
             topBar = {

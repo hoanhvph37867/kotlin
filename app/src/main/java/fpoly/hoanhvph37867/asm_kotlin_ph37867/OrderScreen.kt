@@ -50,7 +50,6 @@ class OrderScreen : ComponentActivity() {
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
-@Preview
 fun OrderScreenRun(navController: NavController) {
     Scaffold(
         topBar = {

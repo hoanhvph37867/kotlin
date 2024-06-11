@@ -32,7 +32,6 @@ import androidx.core.graphics.toColorInt
 
 
 @Composable
-@Preview
 fun NotificationScreen(innerPadding: PaddingValues) {
     Column(
         modifier = Modifier
